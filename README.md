@@ -1,6 +1,6 @@
 # 🎮 Game Title
 
-![Screenshot or Logo](./path-to-your-screenshot-or-logo.png)
+![Screenshot or Logo](./assets/image.png)
 
 ## 🕹️ Description
 
